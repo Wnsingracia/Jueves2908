@@ -1,0 +1,75 @@
+*{margin: 0px;}
+.padre
+{
+    background-color: blue;
+    padding: 20px;
+    height: 550px;
+    width: 700px;
+    border-radius: 700px;
+}
+.hijo
+{
+    background-color: red;
+    padding: 20px;
+    border-radius: 700px;
+    margin-right: 500px;
+    margin-top: 50px;
+    margin-left: 50px;
+    height: 100px;
+}
+.nieto
+{
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 700px;
+    height: 50px;
+    width: 50px;
+    margin-right: 500px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.bisnieto
+{
+    background-color: greenyellow;
+    padding: 20px;
+    border-radius: 700px;
+    height: 100px;
+    margin-top: 10px;
+    margin-right: 100px;
+    margin-left: 10px;
+    height: 50px;
+    width: 50px;
+}
+.c5
+{
+    background-color: orange;
+    border-radius: 700px;
+    padding: 20px;
+    height: 50px;
+    width: 50px;
+    margin-right: 500px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.c6
+{
+    background-color: gray;
+    border-radius: 700px;
+    padding: 20px;
+    height: 50px;
+    width: 50px;
+    margin-right: 500px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.c7
+{
+    background-color: white;
+    border-radius: 700px;
+    padding: 20px;
+    height: 50px;
+    width: 50px;
+    margin-right: 500px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
